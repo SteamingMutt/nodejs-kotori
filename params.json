@@ -1,0 +1,6 @@
+{
+  "name": "NODEJS Kotori",
+  "tagline": "A simple and open-source Discord Bot for your server.",
+  "body": "### Features.\r\nNODEJS Kotori can perform simple administrative commands and a few extra things. she can even gather the latest news!\r\n\r\n### Adding to your Discord server.\r\nI have made adding the bot to your server easier using suckybots by abal.\r\n+ for stable : http://suckybots.abal.moe/bots/189963740031090688\r\n+ for Cutting Edge (Unstable) :http://suckybots.abal.moe/bots/189964084597227523\r\n\r\n### Contributing.\r\nit's easy to contribute! just pull up a Pull Request on daily and I (or we,soon?) will review what changes you made.\r\nWe won't bite! plus we won't scold you from your bad coding :) .\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
